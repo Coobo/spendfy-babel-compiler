@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.default=void 0;function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor)){throw new TypeError("Cannot call a class as a function")}}var Control=function Control(){_classCallCheck(this,Control);console.log("constol")};var _default=new Control;exports.default=_default;
+//# sourceMappingURL=control.js.map

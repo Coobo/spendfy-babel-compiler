@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/app.js"],"names":["console","log"],"mappings":"aAAA,8C,kFAEAA,OAAO,CAACC,GAAR,CAAY,WAAZ","sourcesContent":["import fs from 'fs';\r\n\r\nconsole.log('FS MY ASS');\r\n"],"file":"app.js"}

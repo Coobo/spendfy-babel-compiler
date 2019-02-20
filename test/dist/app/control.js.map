@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/app/control.js"],"names":["Control","console","log"],"mappings":"gPAAMA,CAAAA,O,CACJ,kBAAc,+BACZC,OAAO,CAACC,GAAR,CAAY,SAAZ,CACD,C,cAGY,GAAIF,CAAAA,O","sourcesContent":["class Control {\r\n  constructor() {\r\n    console.log('constol');\r\n  }\r\n}\r\n\r\nexport default new Control();\r\n"],"file":"control.js"}
