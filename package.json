@@ -1,6 +1,6 @@
 {
   "name": "@coobo/compiler",
-  "version": "v0.0.1-alpha",
+  "version": "v0.0.2-alpha",
   "description": "Babel Compiler specifically configured for usage on spendfy projects",
   "main": "index.js",
   "repository": "git@github.com:Coobo/spendfy-babel-compiler.git",
